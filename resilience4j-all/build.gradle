@@ -4,7 +4,6 @@ dependencies {
     compile project(':resilience4j-bulkhead')
     compile project(':resilience4j-circularbuffer')
     compile project(':resilience4j-circuitbreaker')
-    compile project(':resilience4j-bulkhead')
     compile project(':resilience4j-retry')
     compile project(':resilience4j-consumer')
     compile project(':resilience4j-cache')
